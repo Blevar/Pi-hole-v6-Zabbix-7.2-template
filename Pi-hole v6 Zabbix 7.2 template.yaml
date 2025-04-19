@@ -97,7 +97,7 @@ zabbix_export:
         * Unique domain
         
         
-        ## Author
+        ## Author - Fixed for Pi-Hole v6 by Blevar
         
         Undefined_ID
       groups:
